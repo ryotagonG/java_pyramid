@@ -7,7 +7,7 @@ public class Practice {
       for(int k=0; k<(i+1)*2-1; k++) {
         System.out.print("*");
       }
-      System.out.print("\n");
+      System.out.println("\n");
     }
   }
 }
